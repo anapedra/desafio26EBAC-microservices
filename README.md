@@ -32,11 +32,6 @@ A arquitetura é composta por:
 - 🧭 eureka-server – Registro e descoberta de serviços  
 - ⚙️ config-server – Configuração centralizada via Spring Cloud Config
 
----
-
-## 🧱 Estrutura do Projeto
-
-A estrutura da arquitetura baseada em microserviços pode ser visualizada no seguinte diagrama:
 
 ![Estrutura da arquitetura](https://drive.google.com/file/d/18ydWvkmf1_pGn4Lgw8EFyLnXu1rVDd0N/view?usp=sharing)
 
