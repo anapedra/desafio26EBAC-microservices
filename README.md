@@ -33,6 +33,8 @@ A arquitetura é composta por:
 - ⚙️ config-server – Configuração centralizada via Spring Cloud Config
 
 
-![Estrutura da arquitetura](https://drive.google.com/file/d/18ydWvkmf1_pGn4Lgw8EFyLnXu1rVDd0N/view?usp=sharing)
+![Estrutura da arquitetura](https://drive.google.com/file/d/18ydWvkmf1_pGn4Lgw8EFyLnXu1rVDd0N/view?usp=sharinggit status
+
+)
 
 
