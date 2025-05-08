@@ -38,6 +38,6 @@ A arquitetura é composta por:
 
 A estrutura da arquitetura baseada em microserviços pode ser visualizada no seguinte diagrama:
 
-[📁 Visualizar Diagrama de Arquitetura no Google Drive](https://drive.google.com/file/d/18ydWvkmf1_pGn4Lgw8EFyLnXu1rVDd0N/view?usp=sharing)
+![Estrutura da arquitetura](https://drive.google.com/file/d/18ydWvkmf1_pGn4Lgw8EFyLnXu1rVDd0N/view?usp=sharing)
 
 
